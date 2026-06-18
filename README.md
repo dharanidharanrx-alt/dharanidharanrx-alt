@@ -128,7 +128,7 @@ I'm actively targeting **Data Analyst**, **BI Analyst**, and **Business Analyst*
 |---|---|
 | 📧 Email | *(dharanidharanrx@gmail.com)* |
 | 💼 LinkedIn | *(www.linkedin.com/in/dharaniddj)* |
-| 🌐 Portfolio | *(Add portfolio link if available)* |
+| 🌐 Portfolio | *[(https://dharanidharan-james-ju0woak.gamma.site/)* |
 | 📍 Location | Chennai, Tamil Nadu, India |
 
 ---
