@@ -97,8 +97,8 @@ Statistical Analysis  ██████████████░░░░░�
 | Role | Company | Duration |
 |---|---|---|
 | Data Analyst Intern | Rubixe AI Solutions | Recent |
-| Sales Training Manager | OPPO India | ~2 yrs |
-| Sales Training Executive | Bata India Limited | ~1 yr |
+| Sales Trainer | OPPO India | ~2 yrs |
+| Regional Sales Trainer | Bata India Limited | ~1 yr |
 
 **Career Bridge:** My sales training background means I understand the *why* behind analytical questions — not just the *how* of building queries. I've written training frameworks, measured field conversion rates, and reported outcomes to regional leadership. That stakeholder fluency translates directly into analytical communication.
 
